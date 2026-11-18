@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>ETool</title>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Wed, 18 Nov 2026 17:47:37 -0500</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <sparkle:releaseNotesLink>https://ircactusbot-cell.github.io/etool-releases/downloads/test/ETool-1.0.0-1.html</sparkle:releaseNotesLink>
+            <enclosure url="https://ircactusbot-cell.github.io/etool-releases/downloads/test/ETool-1.0.0-1.zip" length="30061491" type="application/octet-stream" sparkle:edSignature="lKAOyf6gYF+IGysUaaiHdFB36XR9QEyXk4m4dB+waLoLXvq9klSr+LuA6dGLSKPdo8PtJDHTFxeywPWT6MKdDQ=="/>
+        </item>
+    </channel>
+</rss>
